@@ -1,4 +1,4 @@
-## Pelikula#
+## Pelikula
 ### Nerubia Activity Project. 
 A simple project that can fetch popular movies from the [themoviedb](https://www.themoviedb.org/).
 
