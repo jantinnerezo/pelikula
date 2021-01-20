@@ -1,7 +1,9 @@
 ## Pelikula
 ### Nerubia Activity Project. 
 A simple project that can fetch popular movies from the [themoviedb](https://www.themoviedb.org/).
-Live demo: https://pelikula.jantinnerezo.com
+
+### Live Demo
+https://pelikula.jantinnerezo.com
 
 ### Requirements
 PHP 7.4
